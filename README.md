@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Residential-Property-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Residential-Property-Management?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Residential-Property-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Residential-Property-Management?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Residential-Property-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Residential-Property-Management?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT"/></a>
@@ -77,45 +77,45 @@ This directory tracks the leading **commercial SaaS solutions** (benchmarked by 
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted descending by **GitHub Star Count**. Every star badge links directly to the repo's stargazers page.*
+*Sorted descending by **GitHub Star Count**. Every Stars_Badge links directly to the repo's stargazers page.*
 
-1. **[Microrealestate](https://github.com/microrealestate/microrealestate)** [![GitHub stars](https://img.shields.io/github/stars/microrealestate/microrealestate?style=social&color=white)](https://github.com/microrealestate/microrealestate/stargazers)  
+1. **[Microrealestate](https://github.com/microrealestate/microrealestate)** [![GitHub_Stars](https://img.shields.io/github/stars/microrealestate/microrealestate?style=social&color=white)](https://github.com/microrealestate/microrealestate/stargazers)  
    **Self-Hosted Landlord & Lease Management Suite** — An open-source, full-stack rental property management platform designed for landlords to manage properties, units, tenants, digital leases, automated rent receipts, and payments. Features a modern web dashboard and Docker deployment. Built with Node.js, React, and MongoDB.
 
-2. **[MicroCommunity](https://github.com/java110/MicroCommunity)** [![GitHub stars](https://img.shields.io/github/stars/java110/MicroCommunity?style=social&color=white)](https://github.com/java110/MicroCommunity/stargazers)  
+2. **[MicroCommunity](https://github.com/java110/MicroCommunity)** [![GitHub_Stars](https://img.shields.io/github/stars/java110/MicroCommunity?style=social&color=white)](https://github.com/java110/MicroCommunity/stargazers)  
    **Microservices Residential Community PMS (HC)** — Enterprise-grade open-source property and residential community management system. Supports owner management, multi-community fee charging, maintenance work order ticketing, access control integration, and mobile tenant services. Built with Java and Spring Cloud.
 
-3. **[Condo](https://github.com/open-condo-software/condo)** [![GitHub stars](https://img.shields.io/github/stars/open-condo-software/condo?style=social&color=white)](https://github.com/open-condo-software/condo/stargazers)  
+3. **[Condo](https://github.com/open-condo-software/condo)** [![GitHub_Stars](https://img.shields.io/github/stars/open-condo-software/condo?style=social&color=white)](https://github.com/open-condo-software/condo/stargazers)  
    **Modular Open-Source PMS & Resident Portal** — Modern open-source property management SaaS platform allowing property managers to manage resident contacts, tickets, properties, payments, invoices, and service marketplaces. Features a mini-app extension ecosystem for shared facilities. Built with TypeScript, Node.js, and GraphQL.
 
-4. **[Real Estate Management](https://github.com/eevan7a9/real-estate-management)** [![GitHub stars](https://img.shields.io/github/stars/eevan7a9/real-estate-management?style=social&color=white)](https://github.com/eevan7a9/real-estate-management/stargazers)  
+4. **[Real Estate Management](https://github.com/eevan7a9/real-estate-management)** [![GitHub_Stars](https://img.shields.io/github/stars/eevan7a9/real-estate-management?style=social&color=white)](https://github.com/eevan7a9/real-estate-management/stargazers)  
    **Property Management & Tenant Collaboration Platform** — Connects landlords, property managers, and prospective tenants. Covers property listings, tenant applications, lease generation, maintenance request logging, and direct messaging. Built with PHP and JavaScript.
 
-5. **[Movin' In](https://github.com/aelassas/movinin)** [![GitHub stars](https://img.shields.io/github/stars/aelassas/movinin?style=social&color=white)](https://github.com/aelassas/movinin/stargazers)  
+5. **[Movin' In](https://github.com/aelassas/movinin)** [![GitHub_Stars](https://img.shields.io/github/stars/aelassas/movinin?style=social&color=white)](https://github.com/aelassas/movinin/stargazers)  
    **Full-Stack Rental Management with Mobile App** — Comprehensive residential and commercial property management system featuring a public booking portal, back-office administration, cross-platform mobile app, and native Stripe/PayPal payment gateway integrations. Built with Node.js, React, and React Native.
 
-6. **[ResidenceCMS](https://github.com/Coderberg/ResidenceCMS)** [![GitHub stars](https://img.shields.io/github/stars/Coderberg/ResidenceCMS?style=social&color=white)](https://github.com/Coderberg/ResidenceCMS/stargazers)  
+6. **[ResidenceCMS](https://github.com/Coderberg/ResidenceCMS)** [![GitHub_Stars](https://img.shields.io/github/stars/Coderberg/ResidenceCMS?style=social&color=white)](https://github.com/Coderberg/ResidenceCMS/stargazers)  
    **Symfony 7 Property Management System** — Clean, open-source property management application tailored for apartment complexes, multi-unit buildings, and residential managers. Provides unit directories, resident tracking, expense ledgers, and maintenance scheduling. Built on PHP and Symfony 7.
 
-7. **[OpenKos](https://github.com/senatroxx/OpenKos)** [![GitHub stars](https://img.shields.io/github/stars/senatroxx/OpenKos?style=social&color=white)](https://github.com/senatroxx/OpenKos/stargazers)  
+7. **[OpenKos](https://github.com/senatroxx/OpenKos)** [![GitHub_Stars](https://img.shields.io/github/stars/senatroxx/OpenKos?style=social&color=white)](https://github.com/senatroxx/OpenKos/stargazers)  
    **Open-Source Boarding & Rental PMS** — Lightweight property management software specifically created for boarding houses (kos), shared rentals, and apartment units. Features room occupancy calendars, recurring rent invoices, and tenant payment tracking.
 
-8. **[WP-Property](https://github.com/wp-property/wp-property)** [![GitHub stars](https://img.shields.io/github/stars/wp-property/wp-property?style=social&color=white)](https://github.com/wp-property/wp-property/stargazers)  
+8. **[WP-Property](https://github.com/wp-property/wp-property)** [![GitHub_Stars](https://img.shields.io/github/stars/wp-property/wp-property?style=social&color=white)](https://github.com/wp-property/wp-property/stargazers)  
    **WordPress-Powered Property & Rental Framework** — Leading open-source WordPress plugin for managing residential listings, rental bookings, property attributes, search filters, and tenant inquiry pipelines directly on self-hosted WordPress sites.
 
-9. **[SweetHome](https://github.com/Jubilee101/SweetHome)** [![GitHub stars](https://img.shields.io/github/stars/Jubilee101/SweetHome?style=social&color=white)](https://github.com/Jubilee101/SweetHome/stargazers)  
+9. **[SweetHome](https://github.com/Jubilee101/SweetHome)** [![GitHub_Stars](https://img.shields.io/github/stars/Jubilee101/SweetHome?style=social&color=white)](https://github.com/Jubilee101/SweetHome/stargazers)  
    **Manager & Resident Communication System** — Dedicated property management tool built to streamline communication between building managers and residents, handling incident reporting, announcements, and maintenance request life cycles.
 
-10. **[OCA / Odoo PMS](https://github.com/OCA/pms)** [![GitHub stars](https://img.shields.io/github/stars/OCA/pms?style=social&color=white)](https://github.com/OCA/pms/stargazers)  
+10. **[OCA / Odoo PMS](https://github.com/OCA/pms)** [![GitHub_Stars](https://img.shields.io/github/stars/OCA/pms?style=social&color=white)](https://github.com/OCA/pms/stargazers)  
     **Odoo Community Property Management Suite** — The official Odoo Community Association (OCA) PMS module. Extends Odoo ERP with property asset hierarchies, lease agreement workflows, tenant invoicing, and double-entry real estate accounting.
 
-11. **[ORPMS](https://github.com/orpms/orpms)** [![GitHub stars](https://img.shields.io/github/stars/orpms/orpms?style=social&color=white)](https://github.com/orpms/orpms/stargazers)  
+11. **[ORPMS](https://github.com/orpms/orpms)** [![GitHub_Stars](https://img.shields.io/github/stars/orpms/orpms?style=social&color=white)](https://github.com/orpms/orpms/stargazers)  
     **Open Real Estate Property Management System** — Community-driven platform designed to organize residential unit portfolios, tenant leases, automated payment reminders, and owner expense statements.
 
-12. **[Utility Billing & Property Management](https://github.com/navariltd/utility-billing)** [![GitHub stars](https://img.shields.io/github/stars/navariltd/utility-billing?style=social&color=white)](https://github.com/navariltd/utility-billing/stargazers)  
+12. **[Utility Billing & Property Management](https://github.com/navariltd/utility-billing)** [![GitHub_Stars](https://img.shields.io/github/stars/navariltd/utility-billing?style=social&color=white)](https://github.com/navariltd/utility-billing/stargazers)  
     **ERPNext Residential Property Extension** — Open-source Frappe/ERPNext app that introduces residential property leasing, tenant management, sub-meter utility billing, and automated recurring rent invoices.
 
-13. **[OpenProperty](https://github.com/clawnify/OpenProperty)** [![GitHub stars](https://img.shields.io/github/stars/clawnify/OpenProperty?style=social&color=white)](https://github.com/clawnify/OpenProperty/stargazers)  
+13. **[OpenProperty](https://github.com/clawnify/OpenProperty)** [![GitHub_Stars](https://img.shields.io/github/stars/clawnify/OpenProperty?style=social&color=white)](https://github.com/clawnify/OpenProperty/stargazers)  
     **Self-Hosted Commercial PMS Alternative** — Self-hosted property management software created as an alternative to TenantCloud, AppFolio, and Buildium for managing properties, units, tenants, digital leases, rent payments, and work orders.
 
 ---
@@ -168,8 +168,8 @@ Contributions are welcome! Please follow these guidelines:
 
 1. Fork the repository.
 2. Verify that any SaaS product added includes **specific starting pricing**, **free tier / trial limits**, and **estimated company size (valuation/revenue)**.
-3. Verify that any Open-Source repository is active, relevant to residential property management, and includes a social star badge:
-   `[![GitHub stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)`
+3. Verify that any Open-Source repository is active, relevant to residential property management, and includes a social Stars_Badge:
+   `[![GitHub_Stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)`
 4. Ensure entries are sorted in descending order according to the section standard (Company Size for SaaS; Star Count for Open-Source).
 5. Submit a Pull Request with a clear, factual explanation of the addition.
 
